@@ -15,7 +15,7 @@ title: about_Continue
 
 在脚本中`Continue`语句立即返回程序流程到由`For`，`Foreach`或`While`语句控制的最内层循环的顶部。
 
-`Continue`关键字支持标签。 标签是您分配给脚本中的语句。有关标签的信息，请参见 [about_Break]（https://docs.microsoft.com/zh-CN/powershell/module/microsoft.powershell.core/about/about_Break?view=powershell-6&WT.mc_id=ps-gethelp）。
+`Continue`关键字支持标签。 标签是您分配给脚本中的语句。有关标签的信息，请参见 [about_Break](https://docs.microsoft.com/zh-CN/powershell/module/microsoft.powershell.core/about/about_Break?view=powershell-6&WT.mc_id=ps-gethelp)。
 
 在下面的示例中，如果`$ctr`变量等于5，程序流返回到`While`循环的顶部。因此，显示5 除外1到10之间的其它数字：
 
